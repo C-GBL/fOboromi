@@ -47,7 +47,7 @@ The emulator currently supports or includes groundwork for:
 - firmware directory scanning
 - key area handling for firmware-related content
 
-The current direction is to support firmware layouts like: `nand.img`, `package2`, `firmware/prod.keys`, and extracted `*.nca` files. Full NCA content decryption and execution are still in progress. :contentReference[oaicite:0]{index=0}
+The current direction is to support firmware layouts like: `nand.img`, `package2`, `firmware/prod.keys`, and extracted `*.nca` files. Full NCA content decryption and execution are still in progress.
 
 ## Project Structure
 
